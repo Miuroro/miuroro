@@ -15,4 +15,4 @@ i'm curious by nature and motivated to learn new technologies that help turn ide
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?miuroro=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=miuroro)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=miuroro&theme=onedark)](https://git.io/streak-stats)
