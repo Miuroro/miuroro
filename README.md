@@ -14,8 +14,11 @@ i'm curious by nature and motivated to learn new technologies that help turn ide
 - css
 
 
+
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miuroro&&layout=compact&custom_title=%F0%9F%8C%9F%20Top%20Languages)
 
 [![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=miuroro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miuroro&&layout=compact&custom_title=%F0%9F%8C%9F%20Top%20Languages)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=miuroro&theme=merko)](https://git.io/streak-stats)
