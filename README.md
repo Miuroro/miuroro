@@ -3,16 +3,16 @@
 ✨ Hi there i’m monera from saudi arabia,
 i'm curious by nature and motivated to learn new technologies that help turn ideas into real solutions.
 
-⚡I'm intrested in :
--music
--games
--coding
+⚡ I'm intrested in : 
+- music
+- games
+- coding
 
-⚡technologies i would like to learn:
--python
--javascript
--css
+⚡ technologies i would like to learn: 
+- python
+- javascript
+- css
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?miuroro=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miuroro)](https://github.com/miuroro/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=miuroro&theme=onedark)](https://git.io/streak-stats)
