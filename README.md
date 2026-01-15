@@ -13,6 +13,7 @@ i'm curious by nature and motivated to learn new technologies that help turn ide
 - javascript
 - css
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miuroro&size_weight=0.5&count_weight=0.5)
 [![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=miuroro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=miuroro&theme=merko)](https://git.io/streak-stats)
