@@ -1,16 +1,18 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=465&lines=Embrace+the+glorious+mess+that+you+are.)](https://git.io/typing-svg)
 
-<!--
-**Miuroro/miuroro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Hi there i’m monera from saudi arabia,
+i'm curious by nature and motivated to learn new technologies that help turn ideas into real solutions.
 
-Here are some ideas to get you started:
+⚡I'm intrested in :
+-music
+-games
+-coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡technologies i would like to learn:
+-python
+-javascript
+-css
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?miuroro=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=miuroro)](https://git.io/streak-stats)
