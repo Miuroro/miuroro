@@ -13,6 +13,6 @@ i'm curious by nature and motivated to learn new technologies that help turn ide
 - javascript
 - css
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miuroro)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miuroro)](https://github.com/miuroro)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=miuroro&theme=onedark)](https://git.io/streak-stats)
