@@ -5,7 +5,7 @@ I love making games and bringing ideas to life. I’m currently trying to finish
 
 <div align="center">
   
-![Developer GIF](Assets/Enthusiastic cat.gif)
+![Developer GIF](Assets/Enthusiastic-cat.gif)
 
 </div>
 
