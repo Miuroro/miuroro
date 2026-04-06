@@ -4,7 +4,7 @@
   "description": "[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=465&lines=Embrace+the+glorious+mess+that+you+are.)](https://git.io/typing-svg)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest run"
   },
   "repository": {
     "type": "git",
