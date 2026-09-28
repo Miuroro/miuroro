@@ -1,14 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=465&lines=Embrace+the+glorious+mess+that+you+are.)](https://git.io/typing-svg)
 ---
 ## 💛 about me...
-Hi there i’m monera from saudi arabia, A lifelong learner who enjoys exploring new technologies, writing clean code, and growing through challenges. Always curious, always improving
-I love making games and bringing ideas to life. I’m currently trying to finish an abandoned project (this time for real😝). When I put my mind to something, I can get a little obsessed—in a good way 🎮✨
+Hi there i’m monera, a backend developer..
 
-<div align="center">
-  
-![Developer GIF](Assets/Enthusiastic-cat.gif)
 
-</div>
 
 ---
 
